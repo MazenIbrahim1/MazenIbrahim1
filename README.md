@@ -2,7 +2,7 @@
 Hi, I am Mazen Ibrahim<br><br>I am a rising senior at Stony Brook University majoring in computer science. I am also a US citizen.<br>I am passionate about learning and exploring the realms of software engineering and machine learning, and building strong and efficient applications.  
 
 Check My Portfolio Website!
-https://mazen-ibrahim.netlify.app/about 
+https://mazen-ibrahim-portfolio.vercel.app  
 
 ## 🌐 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mazen-ibrahim-35238221b) 
